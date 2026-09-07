@@ -209,26 +209,4 @@ The analysis identified several important sales and profitability patterns:
 
 ---
 
-##  Project Structure
 
-```text
-Sales Analytics Project/
-│
-├── README.md
-│
-├── data/
-│   └── sales_data.csv
-│
-├── python/
-│   └── sales_analysis.ipynb
-│
-├── sql/
-│   └── sales_analysis.sql
-│
-├── powerbi/
-│   └── Sales_Analytics_Dashboard.pbix
-│
-├── screenshots/
-│   └── sales_analytics_dashboard.png
-│
-└── requirements.txt
